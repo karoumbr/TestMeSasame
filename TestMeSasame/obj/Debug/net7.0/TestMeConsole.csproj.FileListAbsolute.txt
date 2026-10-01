@@ -1,0 +1,15 @@
+D:\0-Professeur Technologue\000 Cours\Test Logiciel\Test Unitaire\2022\TestMeSasame\TestMeSasame\bin\Debug\net7.0\TestMeConsole.exe
+D:\0-Professeur Technologue\000 Cours\Test Logiciel\Test Unitaire\2022\TestMeSasame\TestMeSasame\bin\Debug\net7.0\TestMeConsole.deps.json
+D:\0-Professeur Technologue\000 Cours\Test Logiciel\Test Unitaire\2022\TestMeSasame\TestMeSasame\bin\Debug\net7.0\TestMeConsole.runtimeconfig.json
+D:\0-Professeur Technologue\000 Cours\Test Logiciel\Test Unitaire\2022\TestMeSasame\TestMeSasame\bin\Debug\net7.0\TestMeConsole.dll
+D:\0-Professeur Technologue\000 Cours\Test Logiciel\Test Unitaire\2022\TestMeSasame\TestMeSasame\bin\Debug\net7.0\TestMeConsole.pdb
+D:\0-Professeur Technologue\000 Cours\Test Logiciel\Test Unitaire\2022\TestMeSasame\TestMeSasame\obj\Debug\net7.0\TestMeConsole.csproj.AssemblyReference.cache
+D:\0-Professeur Technologue\000 Cours\Test Logiciel\Test Unitaire\2022\TestMeSasame\TestMeSasame\obj\Debug\net7.0\TestMeConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\0-Professeur Technologue\000 Cours\Test Logiciel\Test Unitaire\2022\TestMeSasame\TestMeSasame\obj\Debug\net7.0\TestMeConsole.AssemblyInfoInputs.cache
+D:\0-Professeur Technologue\000 Cours\Test Logiciel\Test Unitaire\2022\TestMeSasame\TestMeSasame\obj\Debug\net7.0\TestMeConsole.AssemblyInfo.cs
+D:\0-Professeur Technologue\000 Cours\Test Logiciel\Test Unitaire\2022\TestMeSasame\TestMeSasame\obj\Debug\net7.0\TestMeConsole.csproj.CoreCompileInputs.cache
+D:\0-Professeur Technologue\000 Cours\Test Logiciel\Test Unitaire\2022\TestMeSasame\TestMeSasame\obj\Debug\net7.0\TestMeConsole.dll
+D:\0-Professeur Technologue\000 Cours\Test Logiciel\Test Unitaire\2022\TestMeSasame\TestMeSasame\obj\Debug\net7.0\refint\TestMeConsole.dll
+D:\0-Professeur Technologue\000 Cours\Test Logiciel\Test Unitaire\2022\TestMeSasame\TestMeSasame\obj\Debug\net7.0\TestMeConsole.pdb
+D:\0-Professeur Technologue\000 Cours\Test Logiciel\Test Unitaire\2022\TestMeSasame\TestMeSasame\obj\Debug\net7.0\TestMeConsole.genruntimeconfig.cache
+D:\0-Professeur Technologue\000 Cours\Test Logiciel\Test Unitaire\2022\TestMeSasame\TestMeSasame\obj\Debug\net7.0\ref\TestMeConsole.dll
